@@ -1,7 +1,4 @@
-let mobilenet;
-let video;
-let label;
-let prob;
+let mobilenet, video, label, prob;
 
 function modelReady(){
     console.log('Model is ready!')
